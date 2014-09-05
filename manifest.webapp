@@ -1,0 +1,12 @@
+{
+  "name": "Hit The Dot",
+  "description": "hit the dots game",
+  "launch_path": "/HTD.html",
+  "developer": {
+    "name": "ARAMVA097",
+    "url": "https://www.mozilla.org/"
+  },
+  "icons": {
+    "128": "/icon/128.png"
+  }
+}
